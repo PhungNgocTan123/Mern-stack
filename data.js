@@ -10,7 +10,8 @@ const data = {
             description: '1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine',
             star: 4.73,
             price: '£30 / night',
-            total: '£117 total'
+            total: '£117 total',
+            countInStock: 6,
         },
 
         {
@@ -21,7 +22,8 @@ const data = {
             description: '2 guest · 3 bedroom · 1 bed · 2 bathrooms · Free parking · Washing Machine',
             star: 4.3,
             price: '£40 / night',
-            total: '£157 total'
+            total: '£157 total',
+            countInStock: 6,
         },
 
         {
@@ -32,7 +34,8 @@ const data = {
             description: '1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine',
             star: 4.1,
             price: '£30 / night',
-            total: '£117 total'
+            total: '£117 total',
+            countInStock: 6,
         },
 
         {
@@ -43,7 +46,8 @@ const data = {
             description: '4 guest · 4 bedroom · 4 bed · 2 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine',
             star: 4.73,
             price: '£35 / night',
-            total: '£207 total'
+            total: '£207 total',
+            countInStock: 6,
         },
 
         {
@@ -54,7 +58,8 @@ const data = {
             description: '1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine',
             star: 4.73,
             price: '£30 / night',
-            total: '£117 total'
+            total: '£117 total',
+            countInStock: 6,
         },
 
         {
@@ -65,7 +70,8 @@ const data = {
             description: '1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine',
             star: 5,
             price: '£65 / night',
-            total: '480 total'
+            total: '480 total',
+            countInStock: 6,
         },
 
         {
@@ -76,7 +82,8 @@ const data = {
             description: '3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine',
             star: 4.73,
             price: '£90 / night',
-            total: '£650 total'
+            total: '£650 total',
+            countInStock: 6,
         }
 
     ]

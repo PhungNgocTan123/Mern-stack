@@ -13,4 +13,13 @@ app.get("/api/products", async (req, res) => {
     }
 })
 
+app.get("/api/product/:id", (req, res) => {
+    const productId = req.params.id;
+    const product = data.products.find(x => x._id === productId);
+    if (product) {
+        res.send(product);
+    } else {
+        res.status(404).json({ msg: "Product Not Found." })
+    }
+})
 app.listen(5000, () => { console.log("Server started ") })
