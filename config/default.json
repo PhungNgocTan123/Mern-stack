@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://myproject:ImKs9cwDBQzTuHZa@cluster0.s5qro.mongodb.net/myproject?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://myproject:ImKs9cwDBQzTuHZa@cluster0.s5qro.mongodb.net/myproject?retryWrites=true&w=majority",
+    "JWT_SECRET": "somethingsecret"
 }
